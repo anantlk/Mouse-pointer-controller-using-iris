@@ -21,4 +21,4 @@
 
 
 5.Output:
-	![Alt text](C:\Users\Anant Kakrania\Pictures\Screenshots\Screenshot (34).png\?raw=true,"Result")
+	![Alt text]("C:\Users\Anant Kakrania\Pictures\Screenshots\Screenshot (34).png","Result")
