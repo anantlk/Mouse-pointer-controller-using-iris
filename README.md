@@ -8,7 +8,7 @@
 
 3.Run Code:
   
-  python image_code.py
+     python image_code.py
   
 
 4.Modules required:
@@ -19,7 +19,3 @@
   
   3.pyautogui
 
-
-5.Output:
-
-	![Screenshot](Screenshot (34).png)
