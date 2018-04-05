@@ -22,4 +22,4 @@
 
 5.Output:
 
-	![Screnshot](Screenshot (34).png)
+	![Screenshot](Screenshot (34).png)
