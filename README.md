@@ -18,3 +18,7 @@
   2.Numpy
   
   3.pyautogui
+
+
+5.Output:
+	![Alt text](C:\Users\Anant Kakrania\Pictures\Screenshots\Screenshot (34).png\?raw=true,"Result")
