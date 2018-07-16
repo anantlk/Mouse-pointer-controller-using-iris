@@ -3,7 +3,7 @@
 1.Controls the mouse pointer using iris
 
 
-2.Tracks the images of the location the user is am seeing on the laptop.
+2.Tracks the images of the location the user is seeing on the laptop.
 
 
 3.Run Code:
